@@ -1,1 +1,6 @@
-# Achaz-tests
+# Achaz_tests: version 20160922.
+## Flags:
+      -f [outgroup_presence(1/0)] [#nsam] [freq1] [freq2] ... 
+      -s [outgroup_presence(1/0)] [#nsam] [#freq:value] [#freq:value] ... 
+      -d [seed] (use only in case large sample sizes, nsam > 4000) 
+      -h [help] 
